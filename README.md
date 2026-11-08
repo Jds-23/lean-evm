@@ -20,5 +20,6 @@ Lean projects for writing, compiling, or verifying EVM smart contracts.
 | ethereum-verification-benchmark | — | [lfglabs-dev/ethereum-verification-benchmark](https://github.com/lfglabs-dev/ethereum-verification-benchmark) | [Th0rgal](https://github.com/Th0rgal), [fricoben](https://github.com/fricoben) | 2026-10-19 | 🟢 Active |
 | evm_proof_checker | — | [FawadHa1der/evm_proof_checker](https://github.com/FawadHa1der/evm_proof_checker) | [FawadHa1der](https://github.com/FawadHa1der) | 2026-09-30 | 🟡 Slowing |
 | etheorem | — | [etheorem/etheorem](https://github.com/etheorem/etheorem) | [leolara](https://github.com/leolara), [Mouzayan](https://github.com/Mouzayan), [irajgill](https://github.com/irajgill) | 2026-11-01 | 🟢 Active |
+| EthLib | — | [ethereum/EthLib](https://github.com/ethereum/EthLib) | [tcoratger](https://github.com/tcoratger), [Giulio2002](https://github.com/Giulio2002), [Th0rgal](https://github.com/Th0rgal) | 2026-11-08 | 🟢 Active |
 
 Status as of 2026-11-08, based on the last commit to the default branch: 🟢 Active = within 30 days · 🟡 Slowing = 30–90 days · 🔴 Stale = over 90 days · ⚫ Archived = archived on GitHub. Bot accounts (claude, codex, cursoragent) are left out of the contributor lists.
